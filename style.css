@@ -1,0 +1,33 @@
+body {
+  background-color: LightBlue;
+  margin-top: 65px;
+  font-family: "Courier", "monospace";
+}
+
+footer {
+  margin-top: 65px;
+  background-color: Black;
+  color: White;
+  height: 100px;
+  width: 100%;
+}
+
+.externalWiki{
+  background-color: White;
+  color: Black;
+  text-align: left;
+  width: 75%;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.spacer{
+  float: right;
+  width: 100%;  
+}
+#outerbox {
+  min-height: 800px;
+  width: 100%;
+  color: White;
+}
